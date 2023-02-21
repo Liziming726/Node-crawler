@@ -1,0 +1,26 @@
+{
+  "name": "pachong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/Mockingbirdcc/pachong.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crawler": "^1.2.1",
+    "fastdfs-client": "^1.0.2",
+    "iconv-lite": "^0.6.3",
+    "moment": "^2.29.4",
+    "moment-mini": "^2.24.0",
+    "mysql": "^2.18.1",
+    "promise": "^8.3.0",
+    "request": "^2.88.2",
+    "socks5-https-client": "^1.2.1"
+  }
+}
